@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+Flask
+pymongo
+dnspython
+psutil
+python-dotenv
