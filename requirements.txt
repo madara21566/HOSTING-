@@ -1,6 +1,2 @@
-pyTelegramBotAPI
-Flask
-pymongo
-dnspython
-psutil
-python-dotenv
+python-telegram-bot==20.7
+flask
