@@ -9,7 +9,7 @@ from telegram.ext import (
     filters
 )
 
-BOT_TOKEN = "8572086597:AAFasY-y6TqsOTGGMOvKrrC1vjdqbhm5E5o"
+BOT_TOKEN = os.environ.get("BOT_TOKEN")
 
 # ---------- KEYBOARD ----------
 def reset_kb():
